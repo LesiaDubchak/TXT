@@ -1,0 +1,6 @@
+Skils:
+- Test Cases,
+- Web Applications,
+- Regression Testing,
+- Functional Testing,
+- JIRA
